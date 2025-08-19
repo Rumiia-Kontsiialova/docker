@@ -52,7 +52,7 @@ docker attach
 
 9. создания нового Docker образа на основе изменений в контейнере.
 
-docker exec
+docker commit
 
 
 
